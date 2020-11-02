@@ -49,3 +49,8 @@
 footer{
     text-align: center;
 }
+.ab{
+    width: 70%;
+    margin-left: 15%;
+    background-image: linear-gradient(45deg, #feeae9,#ffb6b2);
+}
